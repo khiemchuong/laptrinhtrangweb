@@ -1,0 +1,54 @@
+.category-text{
+    color: rgb(52, 113, 187);
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.canle{
+    order: 1;
+}
+.phai{
+    text-align: right;
+}
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex; 
+    justify-content: flex-end; /* Các đối tượng cách xa nhau */
+    padding: 5px;
+}
+.nav-item {
+    margin: 0 10px;
+}
+.navbar1 {
+    background-color: #333;
+    color: #fff; 
+     /* Các đối tượng cách xa nhau */
+    padding: 5px;
+    margin:0 500px ;
+}
+.navbar2 {
+    background-color: #333;
+    color: #fff;
+    display: flex; 
+
+    padding: 5px;
+}
+.product {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+.product-rating {
+    color: #f8c600;
+}
+th {
+    background-color: #333; /* Tô màu hàng */
+}
